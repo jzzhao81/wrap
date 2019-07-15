@@ -4,7 +4,7 @@
 @Author: Jianzhou Zhao
 @Date: 2019-07-14 10:27:09
 @LastEditors: Jianzhou Zhao
-@LastEditTime: 2019-07-15 17:11:49
+@LastEditTime: 2019-07-15 17:12:51
 @Description: This code prepares the input of DMFT from a Wannier tight-binding (TB).
 '''
 

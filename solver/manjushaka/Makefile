@@ -92,7 +92,7 @@ pylib: lib
 	@rm -f $*_cpp.f90
 
 clean:
-	@echo "Cleaning solver gardenia"
+	@echo "Cleaning solver manjushaka"
 	@rm -f *.mod
 	@rm -f *.o
 	@rm -f *.so
