@@ -1,0 +1,13 @@
+==========================================================================
+  setup continuous time quantum Monte Carlo quantum impurity solver
+==========================================================================
+1.00         ! Uc: intraorbital Coulomb interaction
+0.00         ! Jz: Hund's exchange interaction in z axis (Jz = Js = Jp = J)
+--------------------------------------------------------------------------
+00.00        ! Chemical Potential
+60.00        ! inversion of temperature
+00.50        ! mixing parameter for self-consistent engine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+8193         ! maximum number of matsubara frequency
+128          ! maximum number of matsubara frequency sampling by CTQMC quan
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
